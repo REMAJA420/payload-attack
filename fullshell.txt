@@ -1,639 +1,1117 @@
-WSO.php
-a.php
-z.php
-e.php
-r.php
-xz.php
-hhh.php
-fuck.php
-hb.php
-t.php
-y.php
-u.php
-i.php
-o.php
-p.php
-q.php
-s.php
-d.php
-f.php
-g.php
-h.php
-j.php
-k.php
-l.php
-m.php
-w.php
-x.php
-c.php
-v.php
-b.php
-n.php
-1.php
-2.php
-3.php
-4.php
-5.php
-6.php
-7.php
-8.php
-9.php
-10.php
-12.php
-11.php
-1234.php
-deray.html
-index.html
-Hmei7.asp.;txt
-madspot.php
-mad.php
-404.php
-anon.php
-pirates.php
-c99.php
-anonymous.php
-shell.php
-sh3ll.php
-madspotshell.php
-b374k.php
-c100.php
-priv8.php
-private.php
-cp.php
-cpbrute.php
-ironshell.php
-hacked.php
-r57.php
-wso.php
-Kurama.php
-wso24.php
-wso26.php
-wso404.php
-sym.php
-symsa2.php
-sym3.php
-whmcs.php
-whmcskiller.php
-cracker.php
-1.php
-2.php
-sql.php
-gaza.php
-database.php
-a.php
-d.php
-dz.php
-cpanel.php
-system.php
-um3r.php
-zone-h.php
-c22.php
-root.php
-r00t.php
-doom.php
-dam.php
-killer.php
-user.php
-cpn.php
-shelled.php
-uploader.php
-up.php
-xd.php
-d00.php
-h4xor.php
-tmp/mad.php
-tmp/1.php
-w.php
-downloads/dom.php
-wp-admin/m4d.php
-d.php
-Pirates.php
-rootshell.php
-php-backdoor.php
-psyc0.php
-haxor.php
-antichat.php
-antichatshell.php
-tcp.php
-Hmei7.asp;.txt
-Indrajith.php
-Indrajith_v2.php
-IndoXploit.php
-indrajith.php
-Indrajith.php
-mini.php
-dor.php
-shellmini.php
-inishell.php
-loolzec.php
-IndoXploit.php
-garuda.php
-shellgue.php
-shellgua.php
-fuck.php
-wp.php
-upup.php
-load.php
-minishell.php
-amin.php
-jm.php
-joomla.php
-_func.php
-ngentod.php
- jembut.php
- dih.php
- hmei7.asp.;txt
- Hmei7.asp.;txt
- Hmei7.asp;.txt
- Pouya.asp;.txt
- pouya.asp;.txt
- rootkit.asp;.txt
- index.asp;.txt
- a.asp;.txt
- Shell.asp;.txt
- shell.asp;.txt
- root.asp;.txt
- s.asp;.txt
- 123.asp;.txt
- Umerrock.asp;.txt
-admincp/index.asp
-admincp/login.asp
-admincp/index.html
-admin/adminLogin.html
-adminLogin.html
-admin/adminLogin.html
-home.html
-adminarea/index.html
-adminarea/admin.html
-adminarea/login.html
-panel-administracion/index.html
-panel-administracion/admin.html
-modelsearch/index.html
-modelsearch/admin.html
-admin/admin_login.html
-admincontrol/login.html
-adm/index.html
-adm.html
-admincontrol.asp
-admin/account.asp
-adminpanel.asp
-webadmin.asp
-webadmin/index.asp
-webadmin/admin.asp
-webadmin/admin.php
-webadmin/admin.html
-webadmin/login.asp
-admin/admin_login.asp
-admin_login.asp
-panel-administracion/login.asp
-adminLogin.asp
-admin/adminLogin.asp
-home.asp
-admin.asp
-adminarea/index.asp
-adminarea/admin.asp
-adminarea/login.asp
-admin-login.html
-panel-administracion/index.asp
-panel-administracion/admin.asp
-modelsearch/index.asp
-modelsearch/admin.asp
-administrator/index.asp
-admincontrol/login.asp
-adm/admloginuser.asp
-admloginuser.asp
-admin2.asp
-admin2/login.asp
-admin2/index.asp
-adm/index.asp
-adm.asp
-affiliate.asp
-adm_auth.asp
-memberadmin.asp
-administratorlogin.asp
-siteadmin/login.asp
-siteadmin/index.asp
-siteadmin/login.html
-admin/
-administrator/
-admin1/
-admin2/
-admin3/
-admin4/
-admin5/
-usuarios/
-usuario/
-administrator/
-moderator/
-webadmin/
-adminarea/
-bb-admin/
-adminLogin/
-admin_area/
-panel-administracion/
-instadmin/
-memberadmin/
-administratorlogin/
-adm/
-admin/account.cfm
-admin/index.cfm
-admin/login.cfm
-admin/admin.cfm
-admin/account.cfm
-admin_area/admin.cfm
-admin_area/login.cfm
-siteadmin/login.cfm
-siteadmin/index.cfm
-siteadmin/login.html
-admin/account.html
-admin/index.html
-admin/login.html
-admin/admin.html
-admin_area/index.cfm
-bb-admin/index.cfm
-bb-admin/login.cfm
-bb-admin/admin.cfm
-admin/home.cfm
-admin_area/login.html
-admin_area/index.html
-admin/controlpanel.cfm
-admin.cfm
-admincp/index.asp
-admincp/login.asp
-admincp/index.html
-admin/account.html
-adminpanel.html
-webadmin.html
-webadmin/index.html
-webadmin/admin.html
-webadmin/login.html
-admin/admin_login.html
-admin_login.html
-panel-administracion/login.html
-admin/cp.cfm
-cp.cfm
-administrator/index.cfm
-administrator/login.cfm
-nsw/admin/login.cfm
-webadmin/login.cfm
-admin/admin_login.cfm
-admin_login.cfm
-administrator/account.cfm
-administrator.cfm
-admin_area/admin.html
-pages/admin/admin-login.cfm
-admin/admin-login.cfm
-admin-login.cfm
-bb-admin/index.html
-bb-admin/login.html
-bb-admin/admin.html
-admin/home.html
-login.cfm
-modelsearch/login.cfm
-moderator.cfm
-moderator/login.cfm
-moderator/admin.cfm
-account.cfm
-pages/admin/admin-login.html
-admin/admin-login.html
-admin-login.html
-controlpanel.cfm
-admincontrol.cfm
-admin/adminLogin.html
-acceso.cfm
-adminLogin.html
-admin/adminLogin.html
-home.html
-rcjakar/admin/login.cfm
-adminarea/index.html
-adminarea/admin.html
-webadmin.cfm
-webadmin/index.cfm
-webadmin/admin.cfm
-admin/controlpanel.html
-admin.html
-admin/cp.html
-cp.html
-adminpanel.cfm
-moderator.html
-administrator/index.html
-administrator/login.html
-user.html
-administrator/account.html
-administrator.html
-login.html
-modelsearch/login.html
-moderator/login.html
-adminarea/login.html
-panel-administracion/index.html
-panel-administracion/admin.html
-modelsearch/index.html
-modelsearch/admin.html
-admincontrol/login.html
-adm/index.html
-adm.html
-moderator/admin.html
-user.cfm
-account.html
-controlpanel.html
-admincontrol.html
-panel-administracion/login.cfm
-wp-login.cfm
-adminLogin.cfm
-admin/adminLogin.cfm
-home.cfm
-admin.cfm
-adminarea/index.cfm
-adminarea/admin.cfm
-adminarea/login.cfm
-panel-administracion/index.cfm
-panel-administracion/admin.cfm
-modelsearch/index.cfm
-modelsearch/admin.cfm
-admincontrol/login.cfm
-adm/admloginuser.cfm
-admloginuser.cfm
-admin2.cfm
-admin2/login.cfm
-admin2/index.cfm
-usuarios/login.cfm
-adm/index.cfm
-adm.cfm
-affiliate.cfm
-adm_auth.cfm
-memberadmin.cfm
-administratorlogin.cfm
-admin/
-administrator/
-admin1/
-admin2/
-admin3/
-admin4/
-admin5/
-usuarios/
-usuario/
-administrator/
-moderator/
-webadmin/
-adminarea/
-bb-admin/
-adminLogin/
-admin_area/
-panel-administracion/
-instadmin/
-memberadmin/
-administratorlogin/
-adm/
-admin/account.js
-admin/index.js
-admin/login.js
-admin/admin.js
-admin/account.js
-admin_area/admin.js
-admin_area/login.js
-siteadmin/login.js
-siteadmin/index.js
-siteadmin/login.html
-admin/account.html
-admin/index.html
-admin/login.html
-admin/admin.html
-admin_area/index.js
-bb-admin/index.js
-bb-admin/login.js
-bb-admin/admin.js
-admin/home.js
-admin_area/login.html
-admin_area/index.html
-admin/controlpanel.js
-admin.js
-admincp/index.asp
-admincp/login.asp
-admincp/index.html
-admin/account.html
-adminpanel.html
-webadmin.html
-webadmin/index.html
-webadmin/admin.html
-webadmin/login.html
-admin/admin_login.html
-admin_login.html
-panel-administracion/login.html
-admin/cp.js
-cp.js
-administrator/index.js
-administrator/login.js
-nsw/admin/login.js
-webadmin/login.js
-admin/admin_login.js
-admin_login.js
-administrator/account.js
-administrator.js
-admin_area/admin.html
-pages/admin/admin-login.js
-admin/admin-login.js
-admin-login.js
-bb-admin/index.html
-bb-admin/login.html
-bb-admin/admin.html
-admin/home.html
-login.js
-modelsearch/login.js
-moderator.js
-moderator/login.js
-moderator/admin.js
-account.js
-pages/admin/admin-login.html
-admin/admin-login.html
-admin-login.html
-controlpanel.js
-admincontrol.js
-admin/adminLogin.html
-adminLogin.html
-admin/adminLogin.html
-home.html
-rcjakar/admin/login.js
-adminarea/index.html
-adminarea/admin.html
-webadmin.js
-webadmin/index.js
-acceso.js
-webadmin/admin.js
-admin/controlpanel.html
-admin.html
-admin/cp.html
-cp.html
-adminpanel.js
-moderator.html
-administrator/index.html
-administrator/login.html
-user.html
-administrator/account.html
-administrator.html
-login.html
-modelsearch/login.html
-moderator/login.html
-adminarea/login.html
-panel-administracion/index.html
-panel-administracion/admin.html
-modelsearch/index.html
-modelsearch/admin.html
-admincontrol/login.html
-adm/index.html
-adm.html
-moderator/admin.html
-user.js
-account.html
-controlpanel.html
-admincontrol.html
-panel-administracion/login.js
-wp-login.js
-adminLogin.js
-admin/adminLogin.js
-home.js
-admin.js
-adminarea/index.js
-adminarea/admin.js
-adminarea/login.js
-panel-administracion/index.js
-panel-administracion/admin.js
-modelsearch/index.js
-modelsearch/admin.js
-admincontrol/login.js
-adm/admloginuser.js
-admloginuser.js
-admin2.js
-admin2/login.js
-admin2/index.js
-usuarios/login.js
-adm/index.js
-adm.js
-affiliate.js
-adm_auth.js
-memberadmin.js
-administratorlogin.js
-admin/
-administrator/
-admin1/
-admin2/
-admin3/
-admin4/
-admin5/
-usuarios/
-usuario/
-administrator/
-moderator/
-webadmin/
-adminarea/
-bb-admin/
-adminLogin/
-admin_area/
-panel-administracion/
-instadmin/
-memberadmin/
-administratorlogin/
-adm/
-admin/account.cgi
-admin/index.cgi
-admin/login.cgi
-admin/admin.cgi
-admin/account.cgi
-admin_area/admin.cgi
-admin_area/login.cgi
-siteadmin/login.cgi
-siteadmin/index.cgi
-siteadmin/login.html
-admin/account.html
-admin/index.html
-admin/login.html
-admin/admin.html
-admin_area/index.cgi
-bb-admin/index.cgi
-bb-admin/login.cgi
-bb-admin/admin.cgi
-admin/home.cgi
-admin_area/login.html
-admin_area/index.html
-admin/controlpanel.cgi
-admin.cgi
-admincp/index.asp
-admincp/login.asp
-admincp/index.html
-admin/account.html
-adminpanel.html
-webadmin.html
-webadmin/index.html
-webadmin/admin.html
-webadmin/login.html
-admin/admin_login.html
-admin_login.html
-panel-administracion/login.html
-admin/cp.cgi
-cp.cgi
-administrator/index.cgi
-administrator/login.cgi
-nsw/admin/login.cgi
-webadmin/login.cgi
-admin/admin_login.cgi
-admin_login.cgi
-administrator/account.cgi
-administrator.cgi
-admin_area/admin.html
-pages/admin/admin-login.cgi
-admin/admin-login.cgi
-admin-login.cgi
-bb-admin/index.html
-bb-admin/login.html
-bb-admin/admin.html
-admin/home.html
-login.cgi
-modelsearch/login.cgi
-moderator.cgi
-moderator/login.cgi
-moderator/admin.cgi
-account.cgi
-pages/admin/admin-login.html
-admin/admin-login.html
-admin-login.html
-controlpanel.cgi
-admincontrol.cgi
-admin/adminLogin.html
-adminLogin.html
-admin/adminLogin.html
-home.html
-rcjakar/admin/login.cgi
-adminarea/index.html
-adminarea/admin.html
-webadmin.cgi
-webadmin/index.cgi
-acceso.cgi
-webadmin/admin.cgi
-admin/controlpanel.html
-admin.html
-admin/cp.html
-cp.html
-adminpanel.cgi
-moderator.html
-administrator/index.html
-administrator/login.html
-user.html
-administrator/account.html
-administrator.html
-login.html
-modelsearch/login.html
-moderator/login.html
-adminarea/login.html
-panel-administracion/index.html
-panel-administracion/admin.html
-modelsearch/index.html
-modelsearch/admin.html
-admincontrol/login.html
-adm/index.html
-adm.html
-moderator/admin.html
-user.cgi
-account.html
-controlpanel.html
+ /shell4.php5
+ /ups.php5
+ /ru.php5
+ /if.php5
+ /vuln.php5
+ /fw.php5
+ /skipper.php5
+ /skippershell.php5
+ /tttt.php5
+ /tshop.php5
+ /alfa.php5
+ /shell.php5
+ /inje3ctor.php5
+ /saudi.php5
+ /wso.php5
+ /alfashell.php5
+ /my_alfa.php5
+ /uploader.php5
+ /up.php5
+ /hacked.php5
+ /c99.php5
+ /priv8.php5
+ /Navir.php5
+ /cmd13.php5
+ /inc20k1.php5
+ /1index.php5
+ /404.php5
+ /swm.php5
+ /wp.php5
+ /mini.php5
+ /php.php5
+ /gif.php5
+ /simple.php5
+ /root.php5
+ /toor.pho
+ /bot.php5
+ /doc.php5
+ /shx.php5
+ /ws.php5
+ /m.php5
+ /edit-form.php5
+ /LEAF.php5
+ /leafmailer.php5
+ /mailer.php5
+ /leafmailer2.8.php5
+ /php_sender.php5
+ /phpsender.php5
+ /smtp.php5
+ /leaf_php.php5
+ /php.php5
+ /leaf_mailer.php5
+ /Leaf.php5
+ /leaf.php5
+ /x.php5
+ /srx.php5
+ /1337.php5
+ /xx.php5
+ /XxX.php5
+ /lf.php5
+ /alex.php5
+ /new.php5
+ /marijuana.php5
+ /gaza.php5
+ /wp-admin.php5
+ /3index.php5
+ /wikindex.php5
+ /wso1.php5
+ /bb.php5
+ /Lux.php5
+ /haxor.php5
+  /shell4.phtml
+  /ups.phtml
+  /ru.phtml
+  /if.phtml
+  /vuln.phtml
+  /fw.phtml
+  /skipper.phtml
+  /skippershell.phtml
+  /tttt.phtml
+  /tshop.phtml
+  /alfa.phtml
+  /shell.phtml
+  /inje3ctor.phtml
+  /saudi.phtml
+  /wso.phtml
+  /alfashell.phtml
+  /my_alfa.phtml
+  /uploader.phtml
+  /up.phtml
+  /hacked.phtml
+  /c99.phtml
+  /priv8.phtml
+  /Navir.phtml
+  /cmd13.phtml
+  /inc20k1.phtml
+  /1index.phtml
+  /404.phtml
+  /swm.phtml
+  /wp.phtml
+  /mini.phtml
+  /php.phtml
+  /gif.phtml
+  /simple.phtml
+  /root.phtml
+  /toor.phtml
+  /bot.phtml
+  /doc.phtml
+  /shx.phtml
+  /ws.phtml
+  /m.phtml
+  /edit-form.phtml
+  /LEAF.phtml
+  /leafmailer.phtml
+  /mailer.phtml
+  /leafmailer2.8.phtml
+  /php_sender.phtml
+  /phpsender.phtml
+  /smtp.phtml
+  /leaf_php.phtml
+  /php.phtml
+  /leaf_mailer.phtml
+  /Leaf.phtml
+  /leaf.phtml
+  /x.phtml
+  /srx.phtml
+  /1337.phtml
+  /xx.phtml
+  /XxX.phtml
+  /lf.phtml
+  /alex.phtml
+  /new.phtml
+  /marijuana.phtml
+  /gaza.phtml
+  /wp-admin.phtml
+  /3index.phtml
+  /wikindex.phtml
+  /wso1.phtml
+  /bb.phtml
+  /Lux.phtml
+   /shell4.php55
+  /ups.php55
+  /ru.php55
+  /if.php55
+  /vuln.php55
+  /fw.php55
+  /skipper.php55
+  /skippershell.php55
+  /tttt.php55
+  /tshop.php55
+  /alfa.php55
+  /shell.php55
+  /inje3ctor.php55
+  /saudi.php55
+  /wso.php55
+  /alfashell.php55
+  /my_alfa.php55
+  /uploader.php55
+  /up.php55
+  /hacked.php55
+  /c99.php55
+  /priv8.php55
+  /Navir.php55
+  /cmd13.php55
+  /inc20k1.php55
+  /1index.php55
+  /404.php55
+  /swm.php55
+  /wp.php55
+  /mini.php55
+  /php.php55
+  /gif.php55
+  /simple.php55
+  /root.php55
+  /toor.php55
+  /bot.php55
+  /doc.php55
+  /shx.php55
+  /ws.php55
+  /m.php55
+  /edit-form.php55
+  /LEAF.php55
+  /leafmailer.php55
+  /mailer.php55
+  /leafmailer2.8.php55
+  /php_sender.php55
+  /phpsender.php55
+  /smtp.php55
+  /leaf_php.php55
+  /php.php55
+  /leaf_mailer.php55
+  /Leaf.php55
+  /leaf.php55
+  /x.php55
+  /srx.php55
+  /1337.php55
+  /xx.php55
+  /XxX.php55
+  /lf.php55
+  /alex.php55
+  /new.php55
+  /marijuana.php55
+  /gaza.php55
+  /wp-admin.php55
+  /3index.php55
+  /wikindex.php55
+  /wso1.php55
+  /bb.php55
+  /Lux.php55
+  /haxor.php55
+  /haxor.phtml
+  
+  /wp-content/plugins/wp-diambar/includes/loadme.php5
+ /wp-content/plugins/zaen/includes/loadme.php5
+ /wp-content/plugins/zedd /1.php5
+ /wp-content/plugins/cakil/up.php5
+ /wp-content/wp.php5
+ /wp-content/plugins/ubh/con.php5
+ /wp-content /plugins/cache-wordpress/payment.php5
+ /wp-content/plugins/cekidot/mr.php5
+ /black.php5
+  /wp-content/plugins/wp-freeform/black2llleaf.php5
+ /wpvitamins.php5
+ /fw.php5
+ /blog/fw.php5
+ /wordpress/fw.php5
+ /wp-admin/fw.php5
+ /wp-content/fw.php5
+ /wp-includes/fw.php5
+ /f0x.php5
+ /wp-admin/f0x.php5
+ /wp-content/f0x.ph
+ /wp-includes/f0x.php5
+ /alfa.php5
+  /wp-admin/alfa.php5
+ /wp-content/alfa.php5
+ /wp-includes/alfa.php5
+ /wp-blog.php5
+ /wp-class.php5
+ /module.php5
+ /Init.php5
+ /wp-includes/wp-class.php5
+ /shx.php5
+ /kil.php5
+ /ovshell.php5
+ /alfanibos.php5
+ /ms.php5
+ /message.php5
+ /wp-mails.php5
+ /wikiindex.php5
+ /alex.php5
+ /shx.php5
+ /wp-0.php5
+ /wp-1.php5
+ /xindex.php5
+ /wiki-index.php5
+ /Bulle.php5
+ /srx.php5
+  /wp-content/plugins/owfsmac/mar.php5
+ /wso.php5
+ /c99.php5
+ /tersembunyi.php5
+ /lab.php5
+ /plugins.php5
+ /1.aspx
+ /shell.aspx
+ /a.aspx
+ /wp-raze.php5
+ /wp-init.php5
+ /lyda.php5
+ /alfashell.php5
+ /av.php5
+ /goods.php5
+ /upl.php5
+ /login.phtml
+ /fox.php5
+ /gelay.php5
+ /darkshell.php5
+ /gel4y.php5
+ /contacts.php5
+ /xmlrpc.php5
+ /yo.php5
+ /wp-content/fm.php5
+ /wp-content/a.php5
+ /images/sym.php5
+ /images/mari.php5
+ /images/gelay.php5
+ /images/shell.php5
+ /images/fw.php5
+ /images/a.php5
+ /images/404.php5
+ /images/leaf.php5
+ /images/leafmailer.php5
+ /images/leafmailer2.8.php5
+ /images/x.php5
+ /images/1.php5
+ /images/sym403.php5
+ /images/sym.php5
+ /images/mar.php5
+ /images/shell.php5
+ /images/mini.php5
+ /images/mar.php5
+ /images/1.php5
+ /images/wp-init.php5
+ /images/upload.php5
+ /images/up.php5
+ /images/fox.php5
+ /images/fw.php5
+ /images/alfa.php5
+ /images/alfashell.php5
+ /images/gelay.php5
+ /images/byps.php5
+ /images/bypass.php5
+ /images/c99.php5
+ /images/x.php5
+ /images/leaf.php5
+ /images/wso.php5
+ /images/sym403.php5
+ /images/leafmailer2.8.php5
+ /images/priv8.php5
+ /images/lux.php5
+ /images/wp.php5
+ /xxx.php5
+ /w3llstore.php5
+ /alfi.php5
+ /DC.php5
+ /wp-content/fm.phtml
+ /wp-content/a.phtml
+ /images/sym.phtml
+ /images/mari.phtml
+ /images/gelay.phtml
+ /images/shell.phtml
+ /images/fw.phtml
+ /images/a.phtml
+ /images/404.phtml
+ /images/leaf.phtml
+ /images/leafmailer.phtml
+ /images/leafmailer2.8.phtml
+ /images/x.phtml
+ /images/1.phtml
+ /images/sym403.phtml
+ /images/sym.phtml
+ /images/mar.phtml
+ /images/shell.phtml
+ /images/mini.phtml
+ /images/mar.phtml
+ /images/1.phtml
+ /images/wp-init.phtml
+ /images/upload.phtml
+ /images/up.phtml
+ /images/fox.phtml
+ /images/fw.phtml
+ /images/alfa.phtml
+ /images/alfashell.phtml
+ /images/gelay.phtml
+ /images/byps.phtml
+ /images/bypass.phtml
+ /images/c99.phtml
+ /images/x.phtml
+ /images/leaf.phtml
+ /images/wso.phtml
+ /images/sym403.phtml
+ /images/leafmailer2.8.phtml
+ /images/priv8.phtml
+ /images/lux.phtml
+ /images/wp.phtml
+ /xxx.phtml
+ /w3llstore.phtml
+ /alfi.phtml
+ /DC.phtml
+ /wp-content/fm.php55
+ /wp-content/a.php55
+ /images/sym.php55
+ /images/mari.php55
+ /images/gelay.php55
+ /images/shell.php55
+ /images/fw.php55
+ /images/a.php55
+ /images/404.php55
+ /images/leaf.php55
+ /images/leafmailer.php55
+ /images/leafmailer2.8.php55
+ /images/x.php55
+ /images/1.php55
+ /images/sym403.php55
+ /images/sym.php55
+ /images/mar.php55
+ /images/shell.php55
+ /images/mini.php55
+ /images/mar.php55
+ /images/1.php55
+ /images/wp-init.php55
+ /images/upload.php55
+ /images/up.php55
+ /images/fox.php55
+ /images/fw.php55
+ /images/alfa.php55
+ /images/alfashell.php55
+ /images/gelay.php55
+ /images/byps.php55
+ /images/bypass.php55
+ /images/c99.php55
+ /images/x.php55
+ /images/leaf.php55
+ /images/wso.php55
+ /images/sym403.php55
+ /images/leafmailer2.8.php55
+ /images/priv8.php55
+ /images/lux.php55
+ /images/wp.php55
+ /xxx.php55
+ /w3llstore.php55
+ /alfi.php55
+ /DC.php55
+ /wp-content/uploads/simple-file-list/DC.php5
+ /wp-content/uploads/simple-file-list/shell.php5
+ /wp-content/uploads/simple-file-list/fox.php5
+ /wp-content/uploads/simple-file-list/fw.php5
+ /wp-content/uploads/simple-file-list/alfa.php5
+ /mailer.php5
+ /Ninja.php5
+ /wp-incleude.php5
+ /fpebr.php5
+ /snd21.php5
+ /olu.php5
+ /tuco.php5
+ /radio.php5
+ /ice.php5
+ /codeboy1877x.php5
+ /wsanon.php5
+ /Alfa.php5
+ /mailer.php55
+ /Ninja.php55
+ /wp-incleude.php55
+ /fpebr.php55
+ /snd21.php55
+ /olu.php55
+ /tuco.php55
+ /radio.php55
+ /ice.php55
+ /codeboy1877x.php55
+ /wsanon.php55
+ /Alfa.php55
+ /mailer.phtml
+ /Ninja.phtml
+ /wp-incleude.phtml
+ /fpebr.phtml
+ /snd21.phtml
+ /olu.phtml
+ /tuco.phtml
+ /radio.phtml
+ /ice.phtml
+ /codeboy1877x.phtml
+ /wsanon.phtml
+ /Alfa.phtml
+  /wp-admin/css/colors/coffee/minishell.php5
+ /wp-admin/css/colors/coffee/shell.php5
+ /wp-admin/css/colors/coffee/404.php5
+ /wp-admin/css/colors/coffee/fw.php5
+ /wp-admin/css/colors/coffee/alfa.php5
+ /wp-admin/css/colors/coffee/gelay.php5
+ /wp-admin/css/colors/coffee/1.php5
+ /wp-admin/css/colors/coffee/a.php5
+ /wp-admin/css/colors/coffee/wso.php5
+ /wp-admin/css/colors/coffee/alfawso.php5
+ /wp-admin/css/colors/coffee/leaf.php5
+ /wp-admin/css/colors/coffee/haxor.php5
+ /wp-admin/css/colors/coffee/mari.php5
+ /wp-admin/css/colors/coffee/up.php5
+ /wp-admin/css/colors/coffee/mini.php5
+ /wp-admin/css/colors/coffee/upload.php5
+ /wp-admin/css/colors/coffee/marijuana.php5
+ /wp-admin/css/colors/coffee/shells.php5
+ /wp-admin/css/colors/coffee/sh3ll.php5
+ /wp-admin/css/colors/coffee/c99.php5
+ /wp-admin/css/colors/coffee/black.php5
+ /wp-admin/css/colors/coffee/alfashell.php5
+ /wp-admin/css/colors/coffee/leafmailer2.8.php5
+ /wp-admin/css/colors/coffee/symlink.php5
+ /wp-admin/css/colors/coffee/sym403.php5
+ /wp-admin/css/colors/coffee/tesla.php5
+ /wp-admin/css/colors/coffee/tesla1.php5
+ /wp-admin/css/colors/coffee/image.php5
+ /wp-admin/css/colors/coffee/xxx.php5
+ /wp-admin/css/colors/coffee/xxxx.php5
+ /wp-admin/css/colors/coffee/maro.php5
+ /wp-admin/css/colors/coffee/langar.php5
+ /wp-admin/css/colors/coffee/out.php5
+ /wp-admin/css/colors/coffee/ups.php5
+ /wp-admin/css/colors/coffee/Bulle.php5
+ /wp-admin/css/colors/coffee/mailer.php5
+ /wp-admin/css/colors/coffee/leaf.php5
+ /wp-admin/css/colors/coffee/leafmailer2.8.php5
+ /wp-admin/css/colors/coffee/x.php5
+ /wp-admin/css/colors/coffee/about.php5
+ /wp-admin/css/colors/coffee/am.php5
+ /wp-admin/css/colors/coffee/mini.local.php5
+ /wp-admin/css/colors/coffee/fox.php5fox.php5
+ /Alfawso.php5
+ /Alfashell.php5
+ /alf4.php5
+ /old-index.php5
+ /pop.php5
+ /leafmailer.php5
+ /wp-thesex.php5
+  /wp-admin/includes/wso.php5
+ /wp-admin/maint/wso.php5
+ /fox1.php5
+ /yhr.php5
+ /wp-admin/css/wso.php5
+ /wp-content/leaf.php5
+ /wp-admin/leaf.php5
+ /wp-includes/leaf.php5
+ /wp-admin/includes /leaf.php5
+ /wp-admin/main/leaf.php5
+ /wp-admin/css/leaf.php5
+ /wp-admin/includes/leafmailer.php5.php5
+ /wp-admin/maint/leafmailer.php5.php5
+ /wp-admin/css/leafmailer.php5.php5
+ /wp-includes/css/leafmailer.php5.php5
+ /wp-admin/leafmailer.php5
+ /wp-content/leafmailer.php5
+ /wp-includes/leafmailer.php5
+ /wp-admin/includes/mailer.php5.php5
+ /wp-admin/maint/mailer.php5.php5
+ /wp-admin/css/mailer.php5.php5
+ /wp-includes/css/mailer.php5.php5
+ /wp-admin/mailer.php5
+ /wp-content/mailer.php5
+ /wp-includes/mailer.php5
+ /ym.php5
+ /1945.php5
+ /yyyy.php5
+ /alfa1.php5
+ /159.php5
+ /2.php5
+ /3.php5
+ /4.php5
+ /5.php5
+ /6.php5
+ /tesla1.php5
+ /7.php5
+ /8.php5
+ /9.php5
+ /10.php5
+ /shadowx.php5
+ /xz.php5
+ /hexor.php5
+ /1.php5
+ /01.php5
+ /haxor.php5
+ /leaf.php5
+ /404.php5
+ /upl.php5
+ /FoxWSOv1.php5
+ /foxwsov1.php5
+ /FoxWSOv2.php5
+ /foxwsov2.php5
+ /shellx.php5
+ /upload.php5
+ /1index.php5
+ /2index.php5
+ /3index.php5
+ /4index.php5
+ /5index.php5
+ /6index.php5
+ /7index.php5
+ /8index.php5
+ /9index.php5
+ /index1.php5
+ /index2.php5
+ /index3.php5
+ /index4.php5
+ /index5.php5
+ /index6.php5
+ /index7.php5
+ /index8.php5
+ /index9.php5
+ /indexx.php5
+ /indeex.php5
+ /jindex.php5
+ /wp-xxx.php5
+ /up.php5
+ /wpx.php5
+  /alfav4.1-tesla.php5
+ /xleetmailer.php5
+ /madmailer.php5
+ /wp_backup.php5
+ /raw.php5
+ /evil.php5
+ /twins.php5
+ /45.php5
+ /alf42.php5
+ /wp-info.php5
+ /wp-one.php5
+ /wordpress /32.php5
+ /wp-pluging.php5
+ /lux.php5
+ /doc.php5
+ /mas.php5
+ /wp-defaul.php5
+ /0byte.php5
+ /73.php5
+  /matamu.php5
+ /529.php5
+ /aci.php5
+ /AK-74.php5
+ /shv3n0m.php5
+ /wp-admin/maro.php5
+ /wp-includes/maro.php5
+ /MyShell.php5
+ /PHP_Shell.php5
+ /l28.php5
+ /Uploader.php5
+ /888.php5
+  /alfa3.php5
+ /ubh.php5
+ /teslaxx.php5
+ /gray.php5
+ /87.php5
+ /mari.php5
+ /upx.php5
+ /cmd.php5
+ /cybershell.php5
+ /fatal.php5
+ /robots.php5
+ /php-backdoor.php5
+ /IndoXploit.php5
+ /Simple_PHP_backdoor.php5
+ /simple-upload.php5
+ /simple_backdoor.php5
+ /r57shell.php5
+ /z.php5
+ /mar.php5
+ /cpanel.php5
+ /kanghoax.php5
+ /langar.php5
+ /401.php5
+ /ups.php5
+ /ye.php5
+ /b.php5
+ /skipper.php5
+ /skippershell.php5
+ /x.php5
+ /webadmin.php5
+ /webshell.php5
+ /simattacker.php5
+ /sh.php5
+ /shankar.php5
+ /sincap.php5
+ /wso-latest.php5
+ /wso2.7.php5
+ /wso2.8.php5
+ /w.php5
+ /w3d.php5
+ /w4k.php5
+ /wacking.php5
+ /wordpress.php5
+ /xinfo.php5
+ /zacosmall.php5
+ /russian.php5
+ /simple_php_backdoor_by_dk.php5
+ /simple-shell.php5
+ /bitwise.php5
+ /c999shell.php5
+ /p0wny-shell.php5
+ /ex0shell.php5
+ /exp.php5
+ /pHpINJ.php5
+ /robot.php5
+ /simple_cmd.php5
+ /sure.php5
+ /sys32.php5
+ /Uploading.php5
+ /byps.php5
+ /xx.php5
+ /fx.php5
+ /who.php5
+ /ah.php5
+ /marijuana.php5
+ /m4r1ju4n4.php5
+ /a.php5
+ /kuda.php5
+ /maro.php5
+ /images/maro.php5
+ /images/daes.php5
+ /images/4pride.php5
+ /kii.php5
+ /wp.php5
+ /dxshell.php5
+ /mailer3.php5
+ /main.php5
+ /xmrlpc.php5
+ /529.php5
+ /404webshell.php5
+ /mailer1.php5
+ /nshell /(1).php5
+ /nshell.php5
+ /predator.php5
+ /zaco.php5
+ /small.php5
+ /ak47shell.php5
+ /b374k.php5
+ /r57.php5
+ /cgi.php5
+ /olux.php5
+ /xleet.php5
+ /owl.php5
+ /yuuki.php5
+ /stfu.php5
+ /spawn.php5
+ /puki.php5
+ /killbot.php5
+ /well.php5?p=
+ /well.php5
+ /Chitoge.php5
+ /cp.php5
+ /shx.php5
+ /kil.php5
+ /ovshell.php5
+ /alfanibos.php5
+ /ms.php5
+ /message.php5
+ /wp-mails.php5
+ /wikiindex.php5
+ /alex.php5
+ /shx.php5
+ /wp-0.php5
+ /wp-1.php5
+ /xindex.php5
+ /wiki-index.php5
+ /Bulle.php5
+ /srx.php5
+  /wso.php5
+ /c99.php5
+ /tersembunyi.php5
+ /lab.php5
+ /plugins.php5
+ /1.aspx
+ /shell.aspx
+ /a.aspx
+ /wp-raze.php5
+ /wp-init.php5
+ /lyda.php5
+ /alfashell.php5
+ /av.php5
+ /goods.php5
+ /upl.php5
+ /login.phtml
+ /fox.php5
+ /gelay.php5
+ /darkshell.php5
+ /gel4y.php5
+ /contacts.php5
+ /xmlrpc.php5
+ /yo.php5
+ /wp-content /fm.php5
+ /wp-content /a.php5
+ /images/sym.php5
+ /images/shell.php5
+ /images/mini.php5
+ /images/mar.php5
+ /images/1.php5
+ /images/wp-init.php5
+ /images/upload.php5
+ /images/up.php5
+ /images/fox.php5
+ /images/fw.php5
+ /images/alfa.php5
+ /images/alfashell.php5
+ /images/gelay.php5
+ /images/byps.php5
+ /images/bypass.php5
+ /images/c99.php5
+ /images/x.php5
+ /images/leaf.php5
+ /images/wso.php5
+ /images/sym403.php5
+ /images/leafmailer2.8.php5
+ /images/priv8.php5
+ /images/lux.php5
+ /images/wp.php5
+ /xxx.php5
+ /w3llstore.php5
+ /alfi.php5
+ /DC.php5
+  /mailer.php5
+ /Ninja.php5
+ /wp-incleude.php5
+ /fpebr.php5
+ /snd21.php5
+ /olu.php5
+ /tuco.php5
+ /radio.php5
+ /ice.php5
+ /codeboy1877x.php5
+ /wsanon.php5
+ /Alfa.php5
+ /wp-admin/css/colors/coffee/minishell.php5
+ /wp-admin/css/colors/coffee/shell.php5
+ /wp-admin/css/colors/coffee/404.php5
+ /wp-admin/css/colors/coffee/fw.php5
+ /wp-admin/css/colors/coffee/alfa.php5
+ /wp-admin/css/colors/coffee/gelay.php5
+ /wp-admin/css/colors/coffee/1.php5
+ /wp-admin/css/colors/coffee/a.php5
+ /wp-admin/css/colors/coffee/wso.php5
+ /wp-admin/css/colors/coffee/alfawso.php5
+ /wp-admin/css/colors/coffee/leaf.php5
+ /wp-admin/css/colors/coffee/haxor.php5
+ /wp-admin/css/colors/coffee/mari.php5
+ /wp-admin/css/colors/coffee/up.php5
+ /wp-admin/css/colors/coffee/mini.php5
+ /wp-admin/css/colors/coffee/upload.php5
+ /wp-admin/css/colors/coffee/marijuana.php5
+ /wp-admin/css/colors/coffee/shells.php5
+ /wp-admin/css/colors/coffee/sh3ll.php5
+ /wp-admin/css/colors/coffee/c99.php5
+ /wp-admin/css/colors/coffee/black.php5
+ /wp-admin/css/colors/coffee/alfashell.php5
+ /wp-admin/css/colors/coffee/leafmailer2.8.php5
+ /wp-admin/css/colors/coffee/symlink.php5
+ /wp-admin/css/colors/coffee/sym403.php5
+ /wp-admin/css/colors/coffee/tesla.php5
+ /wp-admin/css/colors/coffee/tesla1.php5
+ /wp-admin/css/colors/coffee/image.php5
+ /wp-admin/css/colors/coffee/xxx.php5
+ /wp-admin/css/colors/coffee/xxxx.php5
+ /wp-admin/css/colors/coffee/maro.php5
+ /wp-admin/css/colors/coffee/langar.php5
+ /wp-admin/css/colors/coffee/out.php5
+ /wp-admin/css/colors/coffee/ups.php5
+ /wp-admin/css/colors/coffee/Bulle.php5
+ /wp-admin/css/colors/coffee/mailer.php5
+ /wp-admin/css/colors/coffee/leaf.php5
+ /wp-admin/css/colors/coffee/leafmailer2.8.php5
+ /wp-admin/css/colors/coffee/x.php5
+ /wp-admin/css/colors/coffee/about.php5
+ /wp-admin/css/colors/coffee/am.php5
+ /wp-admin/css/colors/coffee/mini.local.php5
+ /wp-admin/css/colors/coffee/fox.php5fox.php5
+ /Alfawso.php5
+ /Alfashell.php5
+ /alf4.php5
+ /old-index.php5
+ /pop.php5
+ /leafmailer.php5
+ /wp-thesex.php5
+/ym.php5
+ /1945.php5
+ /yyyy.php5
+ /alfa1.php5
+ /159.php5
+ /2.php5
+ /3.php5
+ /4.php5
+ /5.php5
+ /6.php5
+ /tesla1.php5
+ /7.php5
+ /8.php5
+ /9.php5
+ /10.php5
+ /shadowx.php5
+ /xz.php5
+ /hexor.php5
+ /1.php5
+ /01.php5
+ /haxor.php5
+ /leaf.php5
+ /404.php5
+ /upl.php5
+ /FoxWSOv1.php5
+ /foxwsov1.php5
+ /FoxWSOv2.php5
+ /foxwsov2.php5
+ /shellx.php5
+ /upload.php5
+ /1index.php5
+ /2index.php5
+ /3index.php5
+ /4index.php5
+ /5index.php5
+ /6index.php5
+ /7index.php5
+ /8index.php5
+ /9index.php5
+ /index1.php5
+ /index2.php5
+ /index3.php5
+ /index4.php5
+ /index5.php5
+ /index6.php5
+ /index7.php5
+ /index8.php5
+ /index9.php5
+ /indexx.php5
+ /indeex.php5
+ /jindex.php5
+ /wp-xxx.php5
+ /up.php5
+ /about.php5
+ /am.php5
+ /images/mari.php5
+ /images/gelay.php5
+ /images/shell.php5
+ /images/fw.php5
+ /images/a.php5
+ /images/404.php5
+ /images/leaf.php5
+ /images/leafmailer.php5
+ /images/leafmailer2.8.php5
+ /images/x.php5
+ /images/1.php5
+ /images/sym403.php5
+ /images/sym.php5
+ /images/mar.php5
+ /wpx.php5
+ /images/am.php5
+ /sym403.php5
+ /symlink.php5
+ /priv8.php5
+ /bypass403.php5
+ /foxwso.php5
+ /alfa.php5
+ /sh3ll.php5
+ /shell.php5
+ /shells.php5
+ /mini.php5
+ /leafmailer2.8.php5
+ /wp-content/leafmailer2.8.php5
+ /wp-admin/leafmailer2.8.php5
+ /wp-includes/leafmailer2.8.php5
+ /alfav4.1-tesla.php5
+ /xleetmailer.php5
+ /madmailer.php5
+ /wp_backup.php5
+ /raw.php5
+ /evil.php5
+ /twins.php5
+ /45.php5
+ /alf42.php5
+ /wp-info.php5
+ /wp-one.php5
+ /wordpress/32.php5
+ /wp-pluging.php5
+ /lux.php5
+ /doc.php5
+ /mas.php5
+ /wp-defaul.php5
+ /0byte.php5
+ /73.php5
+ /matamu.php5
+ /529.php5
+ /aci.php5
+ /AK-74.php5
+ /shv3n0m.php5
+ /mar.php5
+ /cpanel.php5
+ /kanghoax.php5
+ /langar.php5
+ /401.php5
+ /ups.php5
+ /ye.php5
+ /b.php5
+ /skipper.php5
+ /wp-content/kk.php5
+ /skippershell.php5
+ /x.php5
+ /webadmin.php5
+ /webshell.php5
+ /simattacker.php5
+ /sh.php5
+ /shankar.php5
+ /sincap.php5
+ /wso-latest.php5
+ /wso2.7.php5
+ /wso2.8.php5
+ /w.php5
+ /w3d.php5
+ /w4k.php5
+ /wacking.php5
+ /wordpress.php5
+ /xinfo.php5
+ /zacosmall.php5
+ /russian.php5
+ /simple_php_backdoor_by_dk.php5
+ /simple-shell.php5
+ /bitwise.php5
+ /c999shell.php5
+ /p0wny-shell.php5
+ /ex0shell.php5
+ /exp.php5
+ /pHpINJ.php5
+ /robot.php5
+ /simple_cmd.php5
+ /sure.php5
+ /sys32.php5
+ /Uploading.php5
+ /byps.php5
+ /xx.php5
+ /fx.php5
+ /who.php5
+ /ah.php5
+ /marijuana.php5
+ /m4r1ju4n4.php5
+ /a.php5
+ /kuda.php5
+ /maro.php5
+ /images/maro.php5
+ /images/daes.php5
+ /images/4pride.php5
+ /kii.php5
+ /wp.php5
+ /well.php5?p=
+ /dxshell.php5
+ /mailer3.php5
+ /main.php5
+ /xmrlpc.php5
+ /529.php5
+ /404webshell.php5
+ /mailer1.php5
+ /nshell /(1).php5
+ /nshell.php5
+ /predator.php5
+ /zaco.php5
+ /small.php5
+ /ak47shell.php5
+ /b374k.php5
+ /r57.php5
+ /cgi.php5
+ /olux.php5
+ /xleet.php5
+ /owl.php5
+ /yuuki.php5
+ /wp-mna.php5
+ /spawn.php5
+ /puki.php5
+ /server.php5
+ /stfu.php5
+ /sub.php5
+ /1.php5
+ /2.php5
+ /3.php5
+ /webadmin/index.asp
+ /webadmin/index.html
+ /webadmin/index.php5
+ /webadmin/login.asp
+ /webadmin/login.html
+
+ /webadmin.php5
+ /webmaster/
+ /websvn/
+ /wizmysqladmin/
+ /wp-admin/
+ /wp-login/
+ /wplogin/
+ /wp-login.php5
+ /xlogin/
+ /yonetici.asp
+ /yonetici.html
+ /yonetim.php5
+ /yonetim.asp
+ /yonetim.html
+ /yonetim.php5
+ /mini.php5
+ /c99.php5
+ /b37k.php5
+ /ok.php5
+ /upup.php5
+ /vuln.php5
+ /succes.php5
+ /acces.php5
+ /sukses.php5
+ /akses.php5
+ /backdoor.php5
+ /jembut.php5
+ /r00t.php5
+ /indrajith.php5
+ /Indrajith.php5
+ /Indrajith_v1.php5
+ /Indrajith_v2.php5
+ /bol.php5
+ /shellku.php5
+ /shell.php5
+ /Shell.php5
+ /cok.php5
+ /up.php5
+ /mini.php5
+ /backdor.php5
+ /myshell.php5
+ /c99.php5
+ /dark.php5
+ /root.php5
+ /jembut.php5
+ /kontol.php5
+ /ok.php5
+ /upup.php5
+ /IndoXploit.php5
+ /indoxploit.php5
+ /IndoXploit_v1.php5
+ /IndoXploit_v2.php5
+ /IndoXploit_v3.php5
+ /b37k.php5
+ /shell.php5
+ /namashellLu.php5
+ /wp-content/plugins/wp-symposium/server/php/Shell.php5
+/wp-content/plugins/wp-symposium/server/php/Sh3ll.php5
+ /wp-content/plugins/wp-symposium/server/php/b37k.php5
+ /wp-content/plugins/wp-symposium/server/php/up.php5
+ /wp-content/plugins/wp-symposium/server/php/c99.php5
+ /wp-content/plugins/wp-symposium/server/php/wp.php5
+ /wp-content/plugins/wp-symposium/server/php/sym.php5
+ /wp-content/plugins/wp-symposium/server/php/upload.php5
+ /wp-content/plugins/wp-symposium/server/plpanel.html
 admincontrol.html
 panel-administracion/login.cgi
 wp-login.cgi
